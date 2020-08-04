@@ -45,8 +45,7 @@ On the left panel we find login tab
 
 ![admin_login](https://user-images.githubusercontent.com/29353729/89322057-54435900-d6a1-11ea-8ba8-795376f51450.png)
 
-Going there we find that we can login , username is pi but we can enter a password
-
+We try to login , {we are pi}.
 We can try bruteforcing or search for default creds for Pi-Hole
 
 https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
