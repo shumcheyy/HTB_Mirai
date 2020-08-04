@@ -1,6 +1,8 @@
 # HTB_Writeups
 My writeup on how I got the root and user flags for Hack the Box machine Mirai
 
+![mirai](https://user-images.githubusercontent.com/29353729/89324290-b05bac80-d6a4-11ea-9a23-21cac4824ff8.png)
+
 ### Nmap Scan
 
 nmap -A -p- -T4 10.10.10.48 -v -oA Mirai/
