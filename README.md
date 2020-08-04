@@ -85,9 +85,9 @@ cat /root/root.txt
 
 What? We dont have the flag? It says
 
-"I lost my orignal file , search it in usb stick"
+_"I lost my orignal root.txt! I think I may have a backup on my USB stick"
 
-Alright we know from where we can get in the monted devices
+Alright we know from where we can get in the mounted devices
 
 It's 
 cd /media/usbstick
